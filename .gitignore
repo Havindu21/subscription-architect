@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Node / Test artifacts
+node_modules/
+coverage/
+*.log
+
+# Local scratch & disposable test directories
+scratch/
+.tmp/
+.env
+.env.*
